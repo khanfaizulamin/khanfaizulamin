@@ -1,6 +1,6 @@
 ## About Me
 
-- 👋 Hi, I’m @Faiz Ul Amin Khan
+- 👋 Hi, I’m Faiz Ul Amin Khan
 - 🌱 I’m currently studying software engineering at Bahria University
 - 📫 How to reach me: khanfaizulamin@gmail.com
 - 😄 Pronouns: Faizii
